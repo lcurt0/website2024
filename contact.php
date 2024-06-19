@@ -35,7 +35,7 @@
                 <li><a href="./about.html" class="aLink aLink--under">About</a></li>
                 <li><a href="./process.html" class="aLink aLink--under">Process</a></li>
                 <li><a href="./work.html" class="aLink aLink--under">Work</a></li>
-                <li><a href="https://wearenicestudio.com/contact.php"class="aLink aLink--under">Contact</a></li>
+                <li><a href="https://lautarocurto.com/contact.php"class="aLink aLink--under">Contact</a></li>
             </ul>
             <img id="switch" class="colorSwitch" src="https://ik.imagekit.io/nicecreativestudio/IMGs_finales_Webp/rainbow-switch-dark_white-website-mode.webp?ik-sdk-version=javascript-1.4.3&updatedAt=1649368706757" alt="website light & dark mode switch on nice studio website" loading="eager">
             <div id="hamburger-icon" onclick="toggleMobileMenu(this)">
@@ -78,8 +78,8 @@
                                 fill="" />
                         </svg>
                     </li>
-                    <li><a href="https://wearenicestudio.com/contact.php" class="Bd">Contact</a></li>
-                    <a href="mailto:hello@nicecreativestuido.com"
+                    <li><a href="https://lautarocurto.com/contact.php" class="Bd">Contact</a></li>
+                    <a href="mailto:lautarocurto@gmail.com"
                         class="mobile__menu--mail Rg">lautarocurto@gmail.com</a>
                 </ul>
             </div>
@@ -271,8 +271,8 @@
                         </svg>
                     </div>
                     <div class="shapes__us">
-                        <a class="fonPar" href="mailto:hello@nicecreativestudio.com">hello@nicecreativestudio.com</a>
-                        <h4 class="fonPar">Barcelona, Spain</h4>
+                        <a class="fonPar" href="mailto:lautarocurto@gmail.com">lautarocurto@gmail.com</a>
+                        <h4 class="fonPar">Madrid, Spain</h4>
                     </div>
                 </div>
             </form>
