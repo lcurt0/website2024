@@ -111,101 +111,59 @@ img {
 /* ======================= FONTS ======================= */    
 
 @font-face {
-    font-family: 'Maine Light';
-    src: url('../assets/Maine/Maine-Light.otf');
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Maine Regular';
-    src: url('../assets/Maine/Maine-Regular.otf');
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Maine Book';
-    src: url('../assets/Maine/Maine-Book.otf');
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Maine Book Italic';
-    src: url('../assets/Maine/Maine-BookItalic.otf');
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Maine Bold';
-    src: url('../assets/Maine/Maine-Bold.otf');
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Maine Bold Italic';
-    src: url('../assets/Maine/Maine-BoldItalic.otf');
-    font-display: swap;
-}
-
-@font-face {
-    font-family: 'Maine Medium Italic';
-    src: url('../assets/Maine/Maine-MediumItalic.otf');
-    font-display: swap;
-}
-
-@font-face {
     font-family: 'Montserrat 500';
-    src: url('../assets/Maine/Montserrat-Medium.ttf');
+    src: url('../assets/fonts/Montserrat-Medium.ttf');
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Montserrat 600';
-    src: url('../assets/Maine/Montserrat-SemiBold.ttf');
+    src: url('../assets/fonts/Montserrat-SemiBold.ttf');
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Montserrat 700';
-    src: url('../assets/Maine/Montserrat-Bold.ttf');
+    src: url('../assets/fonts/Montserrat-Bold.ttf');
     font-display: swap;
 }
 
 @font-face {
     font-family: 'Montserrat 800';
-    src: url('../assets/Maine/Montserrat-ExtraBold.ttf');
+    src: url('../assets/fonts/Montserrat-ExtraBold.ttf');
     font-display: swap;
 }
 
 .fonXl {  
-    font-family: 'Maine Light';
+    font-family: 'Montserrat 500';
     font-style: normal;
     font-weight: normal;
     font-size: 4.25rem;
     line-height: 4.75rem; }
 
 .fonH1 {
-    font-family: 'Maine Book';
+    font-family: 'Montserrat 600';
     font-style: normal;
     font-weight: normal;
     font-size: 6.5rem;
     line-height: 7.5rem; }
 
 .fonH2 {  
-    font-family: 'Maine Light';
+    font-family: 'Montserrat 500';
     font-style: normal;
     font-weight: normal;
     font-size: 5.25rem;
     line-height: 6.5rem; }
   
 .fonH3 {
-    font-family: 'Maine Light';
+    font-family: 'Montserrat 500';
     font-style: normal;
     font-weight: normal;
     font-size: 3.75rem;
     line-height: 4.75rem; } 
 
 .fonH4 {
-    font-family: 'Maine Light';
+    font-family: 'Montserrat 500';
     font-style: normal;
     font-weight: normal;
     font-size: 2rem;
@@ -249,19 +207,19 @@ img {
 }
 
 .Rg {  
-    font-family: 'Maine Regular'; }
+    font-family: 'Montserrat 500'; }
 
 .BkIt {  
-    font-family: 'Maine Book Italic'; }
+    font-family: 'Montserrat 600'; }
 
 .Bd {  
-    font-family: 'Maine Bold'; }
+    font-family: 'Montserrat 700'; }
 
 .BdIt {  
-    font-family: 'Maine Bold Italic'; }
+    font-family: 'Montserrat 700'; }
 
 .MeIt {  
-    font-family: 'Maine Medium Italic'; }
+    font-family: 'Montserrat 700'; }
 
 .Un {  
     text-decoration-line: underline; 
@@ -738,28 +696,28 @@ body.color .grab__gallery {
     }
 
     .fonXl {
-        font-family: 'Maine Light';
+        font-family: 'Montserrat 500';
         font-style: normal;
         font-weight: normal;
         font-size: 3.75rem;
         line-height: 4.5rem; }
 
     .fonH2 {  
-        font-family: 'Maine Light';
+        font-family: 'Montserrat 500';
         font-style: normal;
         font-weight: normal;
         font-size: 3.25rem;
         line-height: 4.5rem; }
 
     .fonH3 {
-        font-family: 'Maine Light';
+        font-family: 'Montserrat 500';
         font-style: normal;
         font-weight: normal;
         font-size: 2.5rem;
         line-height: 3.5rem; } 
 
     .fonH4 {
-        font-family: 'Maine Light';
+        font-family: 'Montserrat 500';
         font-style: normal;
         font-weight: normal;
         font-size: 1.5rem;

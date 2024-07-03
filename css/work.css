@@ -73,7 +73,8 @@
 
 .work__accordion h4 .Un{
     text-decoration: underline 2px;
-    -webkit-text-decoration-line: underline; /* Safari */ }
+    -webkit-text-decoration-line: underline; /* Safari */ 
+}
 
 .work__accordion--arrow {
     position: absolute;
